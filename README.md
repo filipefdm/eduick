@@ -40,4 +40,4 @@ $ npm run dev
 # Acesse http://localhost:3000
 ```
 
-**OBSERVAÇÔES:** Para acessar a dashboard, clique em "Get started" e em seguida no botão "Login".
+**OBSERVAÇÃO:** Para ter acesso ao dashboard, basta clicar no botão "Get started" e depois em "Login".
