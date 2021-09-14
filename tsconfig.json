@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "allowJs": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "noEmit": true,
+      "esModuleInterop": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "jsx": "preserve"
+    },
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Button/Button.jsx", "src/components/Footer/Footer.jsx", "src/components/Modal/Modal.jsx", "src/components/NavBar/NavBar.jsx", "src/components/Input/Input.jsx", "src/components/Radio/index.jsx", "src/pages/index.jsx", "src/pages/_app.tsx", "src/pages/_document.tsx", "src/components/Main/Main.jsx", "src/components/Header/Header.jsx", "src/pages/dashboard.tsx", "src/components/Card/index.tsx"],
+    "exclude": ["node_modules"]
+  }
+  
